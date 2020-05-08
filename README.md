@@ -1,4 +1,4 @@
-# timetrackerfluttercourse
+# Testing Mobile App Flutter
 
 A new Flutter application.
 
